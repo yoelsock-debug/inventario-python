@@ -49,8 +49,6 @@ def eliminar_producto():
             return
  
     print("Producto no encontrado")
- 
-# === PROGRAMA PRINCIPAL ===
 while True:
     mostrar_menu()
     opcion = input("Elige una opción: ")
